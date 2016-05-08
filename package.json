@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "$rinivas",
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^3.1.6",
